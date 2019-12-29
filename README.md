@@ -1,4 +1,4 @@
-# Statistis_Fundamentals_Python
+# Statistics_Fundamentals_Python
 Notes from Datacamp course called Statistical Thinking in Python,
 
 Chapter 1 Importance
